@@ -9,6 +9,7 @@ $ git config --global core.autocrlf true
 $ git config --global core.safecrlf false
 $ git config --global core.editor "code --wait"
 $ cat ~/.gitconfig
+```
 
 ---
 
@@ -19,6 +20,7 @@ $ git init [저장소 이름]
 
 # 원격 저장소 내려받기
 $ git clone [저장소 URL]
+```
 
 ---
 
