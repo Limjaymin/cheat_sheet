@@ -45,3 +45,44 @@
 
 팀 깃허브 저장소에 폴더를 만들어 각자 브랜치를 만들고 커밋 푸쉬하는 과정으로 과제를 진행하였습니다.
 
+
+## 03. Issues
+
+![image](https://user-images.githubusercontent.com/111054617/204714629-ffc62916-f3a9-49a9-9122-8e58289e4265.png)
+
+팀 프로젝트를 진행하면서 만든 이슈입니다.  주로 팀 소통을 위해 사용한 것 같습니다.
+
+---
+
+### 라벨과 마일스톤 
+
+![image](https://user-images.githubusercontent.com/111054617/204714794-4d01be9c-e477-4946-976d-8445bff1cb9a.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/111054617/204714844-b5e954af-66fb-4c58-86dc-413beff220c1.png)
+
+ 그 다음으로 라벨과 마일스톤입니다. <b>이 부분은 저희 팀원들의 도움을 많이 받아 완성</b> 되었습니다. 
+  
+ ---
+  
+  ## 04. Projects
+  
+  ### TODO List
+  
+  팀원들과 팀 프로젝트를 진행할때, TODO List를 만들어 진행하였습니다.
+  
+  ![image](https://user-images.githubusercontent.com/111054617/204715250-3a8b5fa1-d617-4601-98bc-bac80e5d77fc.png)
+  
+  과제를 진행하면서 해야할 것과, 하고 있는 중, 완료된 것들을 정리하였습니다.
+  
+  
+  ## 05. Wiki
+  
+  ### Wiki
+  
+  ![image](https://user-images.githubusercontent.com/111054617/204715436-70f8de0e-9d3f-4d80-801c-13fd1233abda.png)
+ 
+  위키 페이지를 만들어서, 과제의 부가적인 것들을 위키에 정리해놨습니다.
+
+
